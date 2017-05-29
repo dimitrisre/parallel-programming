@@ -1,0 +1,9 @@
+sbt test
+run tests
+run testAll 
+submit dimitris.re@gmail.com a.get(true).get
+submit dimitris.re@gmail.com Y0NlRgFpvgadEiAZ
+exit
+submit dimitris.re@gmail.com Y0NlRgFpvgadEiAZ
+εχιτ
+exit
